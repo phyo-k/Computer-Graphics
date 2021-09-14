@@ -1,6 +1,6 @@
 # Computer-Graphics
 -------------------------------------------------------------------------
-Computer Graphics task in University class.
+Computer Graphics tasks in University class.
 
 ### 1. Timer : timer_doughnut.cpp
  - 타이머 콜백 기능을 이용하여 도넛의 크기가 변합니다.
